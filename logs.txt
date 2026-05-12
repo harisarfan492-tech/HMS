@@ -1,0 +1,3 @@
+Patient logged in
+Bill paid
+Patient logged in
